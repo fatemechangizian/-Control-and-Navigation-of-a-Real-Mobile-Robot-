@@ -1,0 +1,3 @@
+# -Control-and-Navigation-of-a-Real-Mobile-Robot-
+“Control and Navigation of a Real Mobile Robot” with Camera Vision and Image Processing
+The project can control the robot with the help of a camera i.e. the camera is monitored robot at the top of the environment. It can also detect obstacles and pass the robot through them to the destination. The software should estimate the location of the START POINT (by using the image from the camera) and according to the final location (the robot's destination-END POINT) it should direct the robot to the destination. The START POINT and END POINT given as input to the software.
